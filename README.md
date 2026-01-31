@@ -53,20 +53,62 @@ Building scalable, secure & high-performance systems
 
 ---
 
-## 🛠️ Tech Stack
+## 🧩 Technology Stacks
 
-<p align="left">
+### 🖥️ OS Stack
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" width="40"/>
+</p>
+Linux • Ubuntu
+
+---
+
+### 🗄️ Database Stack
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+</p>
+MySQL • PostgreSQL • MongoDB
+
+---
+
+### 📌 Project Management & Collaboration
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" width="40"/>
+</p>
+Git • GitHub • GitLab • Bitbucket • Jira • Trello
+
+---
+
+### ❤️ Editor / IDE I Love
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sublimetext/sublimetext-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
+</p>
+Sublime Text • Visual Studio Code
+
+---
+
+### ⚙️ Backend & Cloud Tools
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/amazonwebservices-original-wordmark.svg" width="40"/>
 </p>
+Node.js • TypeScript • Docker • Kubernetes • Redis • Nginx • AWS
+
 
 ---
 
