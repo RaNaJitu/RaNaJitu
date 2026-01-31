@@ -81,6 +81,19 @@ Building scalable, secure & high-performance systems
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ranajitu&layout=compact&theme=onedark&hide_border=true" width="40%"/>
 </p>
 
+
+## 📊 Main Stats Card
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ranajitu&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" />
+
+</p>
+##Top Languages Card
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranajitu&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" />
+
+</p>
+
 ---
 
 ⭐ *Open to collaboration on backend systems, fintech security, and scalable architectures.*
